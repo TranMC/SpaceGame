@@ -1460,7 +1460,7 @@ MonoBehaviour:
   projectileObject: {fileID: 1413877261856170, guid: 7120694aa5e8a9d4a88b1e61228dabb0,
     type: 3}
   nextFire: 0
-  weaponPower: 2
+  weaponPower: 1
   guns:
     rightGun: {fileID: 1781751274324723}
     leftGun: {fileID: 1245768983879267}

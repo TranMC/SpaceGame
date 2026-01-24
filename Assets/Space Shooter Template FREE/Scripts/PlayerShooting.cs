@@ -12,16 +12,13 @@ public class Guns
 
 public class PlayerShooting : MonoBehaviour {
 
-    [Tooltip("shooting frequency. the higher the more frequent")]
     public float fireRate;
 
-    [Tooltip("projectile prefab")]
     public GameObject projectileObject;
 
     [HideInInspector] public float nextFire;
 
 
-    [Tooltip("current weapon power")]
     [Range(1, 4)]    
     public int weaponPower = 1; 
 
