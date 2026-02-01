@@ -49,7 +49,27 @@ public class PlayerShooting : MonoBehaviour {
                 nextFire = Time.time + 1 / fireRate;
             }
         }
+        /*
+        if (Input.GetMouseButton(0))
+        {
+        Update Firing();
+        }
+        */
     }
+    /*
+    private void UpdateFiring()
+    {
+        if (Time.time - lastBulletTime> shootingInterval)
+        {
+            ShootBullet();                                                         
+            lastBulletTime = Time.time;
+        }
+
+    private void ShootBullet()
+    {
+        var bullet = Instantiate(projectileObject, guns.centralGun.transform.position, Quaternion.identity);
+    }
+    */
 
     void MakeAShot() 
     {
