@@ -269,7 +269,7 @@ GameObject:
   - component: {fileID: 4136001954918305}
   - component: {fileID: 198855927712906325}
   - component: {fileID: 199584380308850349}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Central_Gun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -287,7 +287,7 @@ GameObject:
   - component: {fileID: 4378364314670011}
   - component: {fileID: 198556209913698643}
   - component: {fileID: 199518571771549831}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Left_Gun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -341,7 +341,7 @@ GameObject:
   - component: {fileID: 4973433196749139}
   - component: {fileID: 198019306790891795}
   - component: {fileID: 199273999406018275}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: PLayer Engine Effect
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -417,7 +417,7 @@ GameObject:
   - component: {fileID: 212419850845421397}
   - component: {fileID: 61072580190123047}
   - component: {fileID: 50763816203028361}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -433,7 +433,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4734040043774555}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: EngineFx
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -506,7 +506,7 @@ GameObject:
   - component: {fileID: 4976886426355407}
   - component: {fileID: 198074926051055957}
   - component: {fileID: 199800862716459359}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Player Engine Base
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -576,7 +576,7 @@ GameObject:
   - component: {fileID: 4876368492271927}
   - component: {fileID: 198740611505235681}
   - component: {fileID: 199119291798509009}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Right_Gun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
