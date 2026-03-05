@@ -9,5 +9,10 @@ public class EnemyHealth : Health
     {
         base.Die();
         Debug.Log("Enemy has died!");
+        LivingEnemyCount--;
     }
+
+    public static int LivingEnemyCount;
+
+    private void Awake() => LivingEnemyCount++;
 }

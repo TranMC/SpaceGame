@@ -15,6 +15,7 @@ public class Health : MonoBehaviour
 
     public int defaultHealthPoint;
     private int healthPoint;
+    public System.Action onDead;
     private void Start() => healthPoint = defaultHealthPoint;
 
     public void TakeDamage(int damage)
